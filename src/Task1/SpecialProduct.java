@@ -1,8 +1,8 @@
 package Task1;
 
 public class SpecialProduct extends Product {
-    static int regularPrice;
-    static int percentageOff;
+     int regularPrice;
+     int percentageOff;
     public SpecialProduct(String name,int price){
         super(name, price);
 
@@ -17,8 +17,9 @@ public class SpecialProduct extends Product {
     }
     public static SpecialProduct applyOffOnProduct(Product product, int percentageOff1){
         int discountedPrice=(product.price*percentageOff1)/100;
-        regularPrice=product.price;
-        percentageOff=percentageOff1;
-        return new SpecialProduct(product.name,discountedPrice);
+        SpecialProduct specialProduct=new SpecialProduct(product.name,discountedPrice);
+        specialProduct.regularPrice=product.price;
+        specialProduct.percentageOff=percentageOff1;
+        return specialProduct;
     }
 }

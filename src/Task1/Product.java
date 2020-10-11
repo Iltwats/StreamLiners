@@ -2,8 +2,8 @@ package Task1;
 import java.util.Objects;
 
 public class Product {
-    static String name;
-    static int price;
+    String name;
+    int price;
 
     public Product() {}
 
