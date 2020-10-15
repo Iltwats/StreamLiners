@@ -1,5 +1,7 @@
 package Task2;
 
+import java.util.regex.Pattern;
+
 public class GroceryCartItem extends GroceryItem {
     float price;
     float quantity;
@@ -16,18 +18,36 @@ public class GroceryCartItem extends GroceryItem {
 
     @Override
     public String toString() {
-        String cartCost=String.format("%s (Rs. %d X Rs. %f) = Rs. %f",name,pricePerKg,quantity,price);
+        String cartCost=String.format("%s (Rs %d X Rs %.3f) = Rs %.2f",name,pricePerKg,quantity,price);
         return cartCost;
     }
-    
+
     public static float extractQuantity(String quantityStr){
-        String metric[]=quantityStr.split(" ");
-        metric[0]=metric[0].replace("kg","");
-        metric[1]=metric[1].replace("g","");
-        float kiloGrams=Integer.parseInt(metric[0]);
-        float grams=Integer.parseInt(metric[1]);
-        float quantityAdded=kiloGrams+(grams/1000);
-        return quantityAdded;
+        //Checking if valid quantity
+        if(!Pattern.compile("(\\d+kg \\d+g)|(\\d+kg)|(\\d+g)")
+            .matcher(quantityStr)
+                .matches()){
+            System.out.println("Invalid Quantity!");
+            return -1;
+        }
+        //replacing kg and g
+        quantityStr=quantityStr.replace("kg ",".")
+                .replace("kg",".")
+                .replace("g","");
+
+        int dotIndex = quantityStr.indexOf(".");
+        int len=quantityStr.length();
+        //if length of quantity with gram less than 3
+        if(dotIndex == -1 && len < 3 ) {
+            if (len == 1)
+                quantityStr = ".00" + quantityStr;
+            else
+                quantityStr = ".0" + quantityStr;
+        }
+        else if(dotIndex == -1) {
+            quantityStr = "."+quantityStr;
+        }
+        return Float.parseFloat(quantityStr);
     }
 
     public static GroceryCartItem createNew(GroceryItem item,String quantityStr){

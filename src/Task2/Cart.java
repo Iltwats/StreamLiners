@@ -1,5 +1,4 @@
 package Task2;
-
 import java.util.ArrayList;
 
 public class Cart {
@@ -26,7 +25,7 @@ public class Cart {
             cartBuild.append("\t"+cartItems.get(i)+",\n");
         }
         cartBuild.append("\t],")
-                .append("\n\ttotalAmount = Rs."+totalAmount+"\n")
+                .append("\n\ttotalAmount = Rs "+ totalAmount +"\n")
                 .append("}");
         return cartBuild.toString();
     }
