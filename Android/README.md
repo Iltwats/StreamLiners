@@ -8,5 +8,7 @@
 * [Just Jave](https://github.com/Iltwats/JustJava)
 
 
-**More to come.. Keep Checking**
-![](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif) |![](https://media.giphy.com/media/DuWNPF952JNyE/giphy.gif)
+**More to come.. Keep Checking**<br>
+
+![](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
+![](https://media.giphy.com/media/DuWNPF952JNyE/giphy.gif)
