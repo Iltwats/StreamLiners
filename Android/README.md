@@ -5,7 +5,7 @@
 * [Cookies](https://github.com/Iltwats/Cookies)
 * [Multiplication Table](https://github.com/Iltwats/MultiplicationTable)
 * [Court Counter](https://github.com/Iltwats/Court-Counter)
-* [Just Jave](https://github.com/Iltwats/JustJava)
+* [Just Java](https://github.com/Iltwats/JustJava)
 
 
 **More to come.. Keep Checking**<br>
