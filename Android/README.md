@@ -6,6 +6,7 @@
 * [Multiplication Table](https://github.com/Iltwats/MultiplicationTable)
 * [Court Counter](https://github.com/Iltwats/Court-Counter)
 * [Just Java](https://github.com/Iltwats/JustJava)
+* [Intent Activity](https://github.com/Iltwats/IntentActivity)
 
 
 **More to come.. Keep Checking**<br>
