@@ -10,6 +10,7 @@
 | [Intent Activity](https://github.com/Iltwats/IntentActivity) &nbsp; &nbsp;    &nbsp; &nbsp;|&nbsp; &nbsp;    &nbsp; &nbsp;30/10/20
 | [Shared Preferences](https://github.com/Iltwats/SharedPref)&nbsp; &nbsp;    &nbsp; &nbsp;  |&nbsp; &nbsp;    &nbsp; &nbsp;30/10/20
 | [Recycler View](https://github.com/Iltwats/RecyclerView) &nbsp; &nbsp;    &nbsp; &nbsp; |&nbsp; &nbsp;    &nbsp; &nbsp;31/10/20
+| [Recycle Cart](https://github.com/Iltwats/RecycleCart)&nbsp; &nbsp;    &nbsp; &nbsp; |&nbsp; &nbsp;    &nbsp; &nbsp;31/10/20
 
 
 
