@@ -7,6 +7,8 @@
 * [Court Counter](https://github.com/Iltwats/Court-Counter)
 * [Just Java](https://github.com/Iltwats/JustJava)
 * [Intent Activity](https://github.com/Iltwats/IntentActivity)
+* [Shared Preferences](https://github.com/Iltwats/SharedPref)
+* [Recycler View](https://github.com/Iltwats/RecyclerView)
 
 
 **More to come.. Keep Checking**<br>
