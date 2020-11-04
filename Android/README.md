@@ -1,18 +1,18 @@
 # Android Applications
 
 #### Find link to all of the apps repo here:
-| Projects Link       | Date Done 
-| ------------------------------------------------- |:----------------------------------------------------------------------:
-| [Cookies](https://github.com/Iltwats/Cookies)&nbsp; &nbsp;    &nbsp; &nbsp;    | &nbsp; &nbsp;    &nbsp; &nbsp; 20/10/20
-| [Multiplication Table](https://github.com/Iltwats/MultiplicationTable)&nbsp; &nbsp;    &nbsp; &nbsp; |&nbsp; &nbsp;    &nbsp; &nbsp;21/10/20
-| [Court Counter](https://github.com/Iltwats/Court-Counter)&nbsp; &nbsp;    &nbsp; &nbsp;  |&nbsp; &nbsp;    &nbsp; &nbsp;21/10/20
-| [Just Java](https://github.com/Iltwats/JustJava)          &nbsp; &nbsp;    &nbsp; &nbsp; |&nbsp; &nbsp;    &nbsp; &nbsp;21/10/20
-| [Intent Activity](https://github.com/Iltwats/IntentActivity) &nbsp; &nbsp;    &nbsp; &nbsp;|&nbsp; &nbsp;    &nbsp; &nbsp;30/10/20
-| [Shared Preferences](https://github.com/Iltwats/SharedPref)&nbsp; &nbsp;    &nbsp; &nbsp;  |&nbsp; &nbsp;    &nbsp; &nbsp;30/10/20
-| [Recycler View](https://github.com/Iltwats/RecyclerView) &nbsp; &nbsp;    &nbsp; &nbsp; |&nbsp; &nbsp;    &nbsp; &nbsp;31/10/20
-| [Recycle Cart](https://github.com/Iltwats/RecycleCart)&nbsp; &nbsp;    &nbsp; &nbsp; |&nbsp; &nbsp;    &nbsp; &nbsp;31/10/20
-| [BMI Calculator](https://github.com/Iltwats/BMI-Calculator)&nbsp; &nbsp;    &nbsp; &nbsp; |&nbsp; &nbsp;    &nbsp; &nbsp;04/11/20
-| [Column Number](https://github.com/Iltwats/Column-Numbers)&nbsp; &nbsp;    &nbsp; &nbsp; |&nbsp; &nbsp;    &nbsp; &nbsp;04/11/20
+|S.No| Projects Link       | Date Done 
+| ------------------------------------------------:|:------------------------------------------------- |:----------------------------------------------------------------------:
+| 1.|[Cookies](https://github.com/Iltwats/Cookies)&nbsp; &nbsp;    &nbsp; &nbsp;    | &nbsp; &nbsp;    &nbsp; &nbsp; 20/10/20
+| 2.|[Multiplication Table](https://github.com/Iltwats/MultiplicationTable)&nbsp; &nbsp;    &nbsp; &nbsp; |&nbsp; &nbsp;    &nbsp; &nbsp;21/10/20
+| 3.|[Court Counter](https://github.com/Iltwats/Court-Counter)&nbsp; &nbsp;    &nbsp; &nbsp;  |&nbsp; &nbsp;    &nbsp; &nbsp;21/10/20
+| 4.|[Just Java](https://github.com/Iltwats/JustJava)          &nbsp; &nbsp;    &nbsp; &nbsp; |&nbsp; &nbsp;    &nbsp; &nbsp;21/10/20
+| 5.|[Intent Activity](https://github.com/Iltwats/IntentActivity) &nbsp; &nbsp;    &nbsp; &nbsp;|&nbsp; &nbsp;    &nbsp; &nbsp;30/10/20
+| 6.|[Shared Preferences](https://github.com/Iltwats/SharedPref)&nbsp; &nbsp;    &nbsp; &nbsp;  |&nbsp; &nbsp;    &nbsp; &nbsp;30/10/20
+| 7.|[Recycler View](https://github.com/Iltwats/RecyclerView) &nbsp; &nbsp;    &nbsp; &nbsp; |&nbsp; &nbsp;    &nbsp; &nbsp;31/10/20
+| 8.|[Recycle Cart](https://github.com/Iltwats/RecycleCart)&nbsp; &nbsp;    &nbsp; &nbsp; |&nbsp; &nbsp;    &nbsp; &nbsp;31/10/20
+| 9.|[BMI Calculator](https://github.com/Iltwats/BMI-Calculator)&nbsp; &nbsp;    &nbsp; &nbsp; |&nbsp; &nbsp;    &nbsp; &nbsp;04/11/20
+| 10.|[Column Number](https://github.com/Iltwats/Column-Numbers)&nbsp; &nbsp;    &nbsp; &nbsp; |&nbsp; &nbsp;    &nbsp; &nbsp;04/11/20
 
 
 
